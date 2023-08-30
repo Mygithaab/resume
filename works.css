@@ -1,0 +1,130 @@
+/* font-family: Heebo; */
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* body {
+    width: 1553px;
+    background: #28ad1b62;
+} */
+.container {
+    width: 1152px;
+    margin: 0 auto;
+    background: #FFF;
+}
+.header,
+.footer {
+    padding: 0 235px 0 235px;
+}
+
+/* ------------------ header ----------- */
+.header {
+    padding: 27px 60px 27px 826px;
+}
+.clas {
+    display: flex;
+    gap: 45px;
+}
+.header a {
+    text-decoration: none;
+    width: 71px;
+    height: 43px;
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+}
+.header a:hover {
+    color: #FF6464;
+}
+
+/* --------------- hero --------------- */
+.hero {
+    font-family: Heebo;
+}
+/* ----------------- hero3 ---------------- */
+.hero1 h1 {
+    width: 156px;
+    height: 69px;
+    color: var(--dark-color, #21243D);
+    font-size: 44px;
+    font-weight: 900;
+}
+.work1 {
+    display: flex;
+    gap: 18px;
+}
+.work-img img {
+    margin-top: 30px;
+    width: 246px;
+    height: 180px;
+    border-radius: 6px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.work-text h2 {
+    margin-top: 20px;
+    color: var(--dark-color, #21243D);
+    font-size: 30px;
+    font-weight: 700;
+}
+.dash {
+    margin-top: 15px;
+    display: flex;
+    gap: 36px;
+}
+/* .dash h3 {
+    width: 62px;
+    height: 25px;
+    border-radius: 16px;
+    background: #ffffff;
+} */
+.dash p {
+    font-size: 18px;
+    font-weight: 900;
+}
+.dash h5 {
+    width: 374px;
+    height: 34px;
+    color: var(--light, #8695A4);
+    font-size: 20px;
+    font-weight: 400;
+}
+.work-p p {
+    margin-top: 30px;
+    width: 594px;
+    height: 93px;
+    color: var(--dark-color, #21243D);
+    font-size: 16px;
+    font-weight: 400;
+}
+hr {
+    margin: 20px 0;
+    stroke-width: 1px;
+    stroke: var(--gray-5, #E0E0E0);
+    width: 858px;
+    height: 0px;
+}
+
+
+
+
+
+/* --------------- footer ------------- */
+.footer {
+    height: 250px;
+}
+.social {
+    padding: 130px 0 0 225px;
+    display: flex;
+    gap: 35px;
+}
+.copi {
+    margin-top: 26px;
+    padding-bottom: -100px;
+    color: var(--dark, #21243D);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+}

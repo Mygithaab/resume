@@ -1,0 +1,347 @@
+@media (max-width: 1441px) {
+    
+}
+
+@media (max-width: 1201px) {
+    
+}
+@media (max-width: 1025px) {
+    
+}
+
+@media (max-width: 993px) {
+    
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 577px;
+    }
+    .header,
+    .hero1,
+    .footer {
+        padding: 0 40px 0 40px;
+    }
+    .header {
+        height: 50px;
+    }
+    .header a {
+        display: none;
+    }
+
+
+    /* ------------ header ------------- */
+    .header {
+        padding: 20px 18px 12px 327px;
+    }
+
+
+    /* ------------ hero --------------- */
+    .hero1 h1 {
+        padding-top: 24px;
+        font-size: 30px;
+    }
+    .ui h3 {
+        margin: 20px 0 10px 0;
+        font-size: 26px;
+    }
+    .ui h5 {
+        font-size: 15px;
+    }
+    .ui p {
+        margin: 15px 0 25px 0;
+        font-size: 16px;
+        width: 339px;
+    }
+    hr {
+        stroke-width: 1px;
+        stroke: var(--gray-5, #E0E0E0);
+        width: 370px;
+        height: 0px;
+    }
+
+    /* ---------- footer ----------- */
+    .social {
+        padding: 100px 0 0 69px;
+    }
+    .copi p {
+        padding-bottom: 54px;
+    }
+}
+
+@media (max-width: 577px) {
+    .container {
+        width: 576px;
+    }
+    .header,
+    .hero1,
+    .footer {
+        padding: 0 40px 0 40px;
+    }
+    .header {
+        height: 50px;
+    }
+    .header a {
+        display: none;
+    }
+
+
+    /* ------------ header ------------- */
+    .header {
+        padding: 20px 18px 12px 327px;
+    }
+
+
+    /* ------------ hero --------------- */
+    .hero1 h1 {
+        padding-top: 24px;
+        font-size: 30px;
+    }
+    .ui h3 {
+        margin: 20px 0 10px 0;
+        font-size: 26px;
+    }
+    .ui h5 {
+        font-size: 15px;
+    }
+    .ui p {
+        margin: 15px 0 25px 0;
+        font-size: 16px;
+        width: 339px;
+    }
+    hr {
+        stroke-width: 1px;
+        stroke: var(--gray-5, #E0E0E0);
+        width: 370px;
+        height: 0px;
+    }
+
+    /* ---------- footer ----------- */
+    .social {
+        padding: 100px 0 0 72px;
+    }
+    .copi p {
+        padding-bottom: 54px;
+    }
+}
+
+@media (max-width: 452px) {
+    .container {
+        width: 451px;
+    }
+    .header,
+    .hero1,
+    .footer {
+        padding: 0 40px 0 40px;
+    }
+    .header {
+        height: 50px;
+    }
+    .header a {
+        display: none;
+    }
+
+
+    /* ------------ header ------------- */
+    .header {
+        padding: 20px 18px 12px 327px;
+    }
+
+
+    /* ------------ hero --------------- */
+    .hero1 h1 {
+        padding-top: 24px;
+        font-size: 30px;
+    }
+    .ui h3 {
+        margin: 20px 0 10px 0;
+        font-size: 26px;
+    }
+    .ui h5 {
+        font-size: 15px;
+    }
+    .ui p {
+        margin: 15px 0 25px 0;
+        font-size: 16px;
+        width: 339px;
+    }
+    hr {
+        stroke-width: 1px;
+        stroke: var(--gray-5, #E0E0E0);
+        width: 370px;
+        height: 0px;
+    }
+
+    /* ---------- footer ----------- */
+    .social {
+        padding: 100px 0 0 69px;
+    }
+    .copi p {
+        padding-bottom: 54px;
+    }
+}
+
+@media (max-width: 401px) {
+    .container {
+        width: 400px;
+    }
+    .header,
+    .hero1,
+    .footer {
+        padding: 0 18px 0 18px;
+    }
+    .header {
+        height: 50px;
+    }
+    .header a {
+        display: none;
+    }
+    .hero1 {
+        display: block;
+    }
+
+
+    /* ------------ header ------------- */
+    .header {
+        padding: 20px 18px 12px 327px;
+    }
+
+
+    /* ------------ hero --------------- */
+    .hero1 h1 {
+        padding-top: 24px;
+        font-size: 30px;
+    }
+    .ui h3 {
+        margin: 20px 0 10px 0;
+        font-size: 26px;
+    }
+    .ui h5 {
+        font-size: 16px;
+    }
+    .ui p {
+        margin: 15px 0 25px 0;
+        font-size: 16px;
+        width: 339px;
+    }
+    hr {
+        stroke-width: 1px;
+        stroke: var(--gray-5, #E0E0E0);
+        width: 339px;
+        height: 0px;
+    }
+
+    /* ---------- footer ----------- */
+    .social {
+        padding: 100px 0 0 55px;
+    }
+}
+
+@media (max-width: 377px) {
+    body {
+        height: 570px;
+    }
+    .container {
+        max-width: 376px;
+    }
+    .header,
+    .hero1,
+    .footer {
+        padding: 0 22px 0 22px;
+    }
+    .header {
+        height: 50px;
+    }
+    .header a {
+        display: none;
+    }
+
+
+    /* ------------ header ------------- */
+    .header {
+        padding: 20px 18px 12px 327px;
+    }
+
+
+    /* ------------ hero --------------- */
+    .hero1 h1 {
+        padding-top: 24px;
+        font-size: 30px;
+    }
+    .ui h3 {
+        margin: 20px 0 10px 0;
+        font-size: 24px;
+    }
+    .ui h5 {
+        font-size: 14px;
+    }
+    .ui p {
+        margin: 15px 0 25px 0;
+        font-size: 14px;
+        width: 320px;
+    }
+    hr {
+        stroke-width: 1px;
+        stroke: var(--gray-5, #E0E0E0);
+        width: 330px;
+        height: 0px;
+    }
+
+    /* ---------- footer ----------- */
+    .social {
+        padding: 100px 0 0 50px;
+    }
+}
+
+@media (max-width: 321px) {
+    body {
+        height: 570px;
+        max-width: 320px;
+    }
+    .header,
+    .hero1,
+    .footer {
+        padding: 0 18px 0 18px;
+    }
+    .header {
+        height: 50px;
+    }
+    .header a {
+        display: none;
+    }
+
+    /* ------------ header ------------- */
+    .header {
+        padding: 20px 18px 12px 327px;
+    }
+
+
+    /* ------------ hero --------------- */
+    .hero1 h1 {
+        padding-top: 24px;
+        font-size: 30px;
+    }
+    .ui h3 {
+        margin: 20px 0 10px 0;
+        font-size: 22px;
+    }
+    .ui h5 {
+        font-size: 14px;
+    }
+    .ui p {
+        margin: 15px 0 25px 0;
+        font-size: 13px;
+        width: 280px;
+    }
+    hr {
+        stroke-width: 1px;
+        stroke: var(--gray-5, #E0E0E0);
+        width: 280px;
+        height: 0px;
+    }
+
+    /* ---------- footer ----------- */
+    .social {
+        padding: 100px 0 0 26px;
+    }
+}

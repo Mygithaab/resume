@@ -1,0 +1,41 @@
+@media (max-width: 376px) {
+    .header,
+    .hero1,
+    .hero2,
+    .hero3,
+    .footer {
+        padding: 0 10px 0 10px;
+    }
+    .header {
+        height: 50px;
+    }
+    .header a {
+        display: none;
+    }
+    .hero1 {
+        display: block;
+    }
+    .hero1-img img {
+        padding: 33px 103.63px 43.14px 100.52;
+        width: 170.859px;
+        height: 170.859px;
+        border-radius: 170.859px;
+    }
+    .hero1-text h1 {
+        padding: 0 31px 21px 32px;
+        margin-top: 0;
+        width: 312px;
+        text-align: center;
+        font-size: 32px;
+        height: 0;
+    }
+    .hero1-text p {
+        margin: 0 24px 27px 24px;
+        width: 300px;
+        text-align: center;
+        font-size: 16px;
+    }
+    .hero1-text button {
+        margin: 0px 84px 59px 84px;
+    }
+}

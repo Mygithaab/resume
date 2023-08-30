@@ -1,0 +1,106 @@
+/* font-family: Heebo; */
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* body {
+    width: 1553px;
+    background: #28ad1b62;
+} */
+.container {
+    width: 1152px;
+    margin: 0 auto;
+    background: #FFF;
+}
+.header,
+.hero1,
+.footer {
+    padding: 0 235px 0 235px;
+}
+
+/* ------------------ header ----------- */
+.header {
+    padding: 27px 60px 27px 826px;
+}
+.clas {
+    display: flex;
+    gap: 45px;
+}
+.header a {
+    text-decoration: none;
+    width: 71px;
+    height: 43px;
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+}
+.header a:hover {
+    color: #FF6464;
+}
+
+/* ------------------ hero ------------------- */
+.hero {
+    font-family: Heebo;
+}
+.hero1 h1 {
+    padding-top: 106px;
+    width: 156px;
+    height: 54px;
+    color: var(--dark-color, #21243D);
+    font-size: 44px;
+    font-weight: 700;
+}
+.ui h3 {
+    margin-top: 55px;
+    width: 682px;
+    height: 33px;
+    color: var(--dark-color, #21243D);
+    font-size: 30px;
+    font-weight: 500;
+}
+.ui h5 {
+    margin-top: 16px;
+    width: 374px;
+    height: 25px;
+    color: var(--dark-color, #21243D);
+    font-size: 20px;
+    font-weight: 400;
+}
+.ui p {
+    margin-top: 6px;
+    width: 682px;
+    height: 89px;
+    color: var(--dark-color, #21243D);
+    font-size: 16px;
+    font-weight: 400;
+}
+hr {
+    width: 681px;
+    height: 0px;
+    stroke-width: 1px;
+    stroke: var(--gray-5, #E0E0E0);
+}
+span {
+    color: #849091;
+}
+
+/* ----------------------- footer ------------- */
+.footer {
+    height: 250px;
+}
+.social {
+    padding: 130px 0 0 225px;
+    display: flex;
+    gap: 35px;
+}
+.copi {
+    margin-top: 26px;
+    padding-bottom: -100px;
+    color: var(--dark, #21243D);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+}
